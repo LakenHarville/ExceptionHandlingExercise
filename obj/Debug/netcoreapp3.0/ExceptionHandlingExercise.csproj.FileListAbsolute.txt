@@ -1,0 +1,13 @@
+F:\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.exe
+F:\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.deps.json
+F:\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.runtimeconfig.json
+F:\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.runtimeconfig.dev.json
+F:\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.dll
+F:\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\bin\Debug\netcoreapp3.0\ExceptionHandlingExercise.pdb
+F:\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.csproj.AssemblyReference.cache
+F:\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.AssemblyInfoInputs.cache
+F:\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.AssemblyInfo.cs
+F:\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.csproj.CoreCompileInputs.cache
+F:\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.dll
+F:\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.pdb
+F:\repos\ExceptionHandlingExercise\ExceptionHandlingExercise\obj\Debug\netcoreapp3.0\ExceptionHandlingExercise.genruntimeconfig.cache

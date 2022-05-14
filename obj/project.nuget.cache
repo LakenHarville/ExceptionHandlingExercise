@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2e1SY7nrqpXFL1R+Pp5jnlZwvP3v+4UPO0yihb1yfItoLt35EgYw2++3MiR4DijBj8e5SnipeEG6n0cR/tBenw==",
+  "success": true,
+  "projectFilePath": "F:\\repos\\ExceptionHandlingExercise\\ExceptionHandlingExercise\\ExceptionHandlingExercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laken\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\laken\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\laken\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\laken\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
